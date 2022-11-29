@@ -4,7 +4,7 @@ bess = 120
 genset = 0
 load = 3209
 net_metering = False
-SOC = 12
+SOC = 11
 
 # Choose your own variables or use from Inverter or different energy assets
 
